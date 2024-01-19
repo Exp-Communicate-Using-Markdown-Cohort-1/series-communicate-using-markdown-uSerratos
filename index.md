@@ -2,20 +2,13 @@
 
 ## This is a H2 header
 
-1. Add an image:
+![Google Logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Google-favicon-vector.png?20221007124453)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-2. Add code
-   
-```python
+```
 import pandas as pd
 ```
 
-3. Add task list
-
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
-
-
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 4
+- [ ] Task 5
